@@ -1,0 +1,21 @@
+.peeps {
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    margin: 0px 8px;
+    cursor: pointer;
+}
+
+.peeps:hover {
+    opacity: 0.3;
+}
+
+.peeps.consultant{
+    color: #7F00FF;
+}
+
+.peeps.not-consultant{
+    color: #224FFF;
+}

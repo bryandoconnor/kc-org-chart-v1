@@ -1,0 +1,62 @@
+[
+	{
+		"bioId": 100001,
+		"firstName": "Bruce",
+		"lastName": "Wayne",
+		"title": "Detective",
+		"email": "bruce@wayne.com",
+		"linkedIn": "https://www.linkedin/brucewayne",
+		"avatar": "https://via.placeholder.com/140x140",
+		"platform": "Engineering",
+		"practice": "Cloud",
+		"skills": "React",
+		"peopleLeader": "",
+		"region": "Americas",
+		"projects": ["Workbench", "Trimble"]
+	},
+	{
+		"bioId": 100002,
+		"firstName": "Clark",
+		"lastName": "Kent",
+		"title": "Reporter",
+		"email": "clark@dailyplanet.com",
+		"linkedIn": "https://www.linkedin/clarkkent",
+		"avatar": "",
+		"platform": "Engineering",
+		"practice": "Web",
+		"skills": "Java",
+		"peopleLeader": 100001,
+		"region": "Americas",
+		"projects": ["Workbench"]
+	},
+	{
+		"bioId": 100003,
+		"firstName": "Diana",
+		"lastName": "Prince",
+		"title": "Amazon",
+		"email": "diana@amazon.com",
+		"linkedIn": "https://www.linkedin/dianaprince",
+		"avatar": "https://via.placeholder.com/140x140",
+		"platform": "Engineering",
+		"practice": "Mobile",
+		"skills": "AWS",
+		"peopleLeader": 100001,
+		"region": "Americas",
+		"projects": ["Trimble"]
+	},
+	{
+		"bioId": 100004,
+		"firstName": "Dick",
+		"lastName": "Grayson",
+		"title": "Ward",
+		"email": "dick@wayne.com",
+		"linkedIn": "https://www.linkedin/dickgrayson",
+		"avatar": "https://via.placeholder.com/140x140",
+		"platform": "Engineering",
+		"practice": "Cloud",
+		"skills": "Contentful",
+		"peopleLeader": 100001,
+		"region": "Americas",
+		"projects": ["MDRT"]
+	}
+]
